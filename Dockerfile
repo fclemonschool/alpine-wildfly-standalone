@@ -11,7 +11,7 @@ USER root
 
 # Add the WildFly distribution to /opt, and make wildfly the owner of the extracted tar content
 # Make sure the distribution is available from a well-known place
-RUN mkdir -p /opt/jboss/wildfly
+RUN mkdir -p /opt/jboss
 RUN adduser -D jboss
 RUN cd $HOME \
     && curl -O https://download.jboss.org/wildfly/$WILDFLY_VERSION/wildfly-$WILDFLY_VERSION.tar.gz \
