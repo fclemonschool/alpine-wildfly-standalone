@@ -1,2 +1,2 @@
-# undertow-docker
-Docker for undertow
+# alpine-openjdk8
+alpine-openjdk8 for Docker
