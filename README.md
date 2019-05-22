@@ -1,2 +1,2 @@
-# alpine-openjdk8
-alpine-openjdk8 for Docker
+# alpine-wildfly 
+alpine-wildfly for Docker
