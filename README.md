@@ -1,2 +1,2 @@
-# alpine-wildfly 
-alpine-wildfly for Docker
+# alpine-wildfly-standalone 
+alpine-wildfly for Docker(Standalone)
